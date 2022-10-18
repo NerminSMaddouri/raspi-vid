@@ -1,3 +1,4 @@
+#!/bin/bash
 dir_of_jpegs=new_timelapse
 output_dir=./
 video_filename=output.avi
